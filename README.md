@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhushan Jain
 - 👀 I’m interested in Performance Engineering and Testing.
-- 🌱 PMD custom ruleset
+- 🌱 PMD custom ruleset, java performance Engineering. Few real world challeges. 
 - 💞️ Performance Engineering initatives
 - 📫 Reach me - bhushan.jain24@gmail.com
 
